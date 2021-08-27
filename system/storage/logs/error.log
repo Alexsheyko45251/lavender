@@ -1,0 +1,5 @@
+2021-08-26 14:20:03 - PHP Unknown:  The Twig_Autoloader class is deprecated since version 1.21 and will be removed in 2.0. Use Composer instead. in F:\OpenServer\domains\lavender\system\library\template\Twig\Autoloader.php on line 12
+2021-08-26 14:20:03 - PHP Unknown:  Using Twig_Autoloader is deprecated since version 1.21. Use Composer instead. in F:\OpenServer\domains\lavender\system\library\template\Twig\Autoloader.php on line 30
+2021-08-26 14:20:03 - PHP Unknown:  Using Twig_Autoloader is deprecated since version 1.21. Use Composer instead. in F:\OpenServer\domains\lavender\system\library\template\Twig\Autoloader.php on line 30
+2021-08-26 14:20:03 - PHP Unknown:  Using Twig_Autoloader is deprecated since version 1.21. Use Composer instead. in F:\OpenServer\domains\lavender\system\library\template\Twig\Autoloader.php on line 30
+2021-08-26 14:20:04 - PHP Unknown:  Using Twig_Autoloader is deprecated since version 1.21. Use Composer instead. in F:\OpenServer\domains\lavender\system\library\template\Twig\Autoloader.php on line 30
